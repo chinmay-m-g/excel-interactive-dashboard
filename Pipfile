@@ -6,6 +6,9 @@ name = "pypi"
 [packages]
 numpy = "*"
 pandas = "*"
+openpyxl = "*"
+streamlit = "*"
+plotly-express = "*"
 
 [dev-packages]
 
